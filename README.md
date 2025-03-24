@@ -81,8 +81,4 @@ curl --request POST \
 
 💡 Built with Spring AI for intelligent and structured AI responses! 🚀
 
-vbnet
-Copy
-Edit
 
-This version includes **emojis** for better readability and **Markdown formatting** to enhance the pres
